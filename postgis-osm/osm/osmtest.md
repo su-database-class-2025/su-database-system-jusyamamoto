@@ -1,11 +1,11 @@
 # import OSM data to postgreSQL
 
-データベースシステム講義資料
-version 0.0.1
-authors: N. Tsutsumida
+データベースシステム講義資料  
+version 0.0.1  
+authors: N. Tsutsumida  
 
-Copyright (c) Narumasa Tsutsumida
-Released under the MIT license
+Copyright (c) Narumasa Tsutsumida  
+Released under the MIT license  
 https://opensource.org/licenses/mit-license.php
 
 # 1. create db
