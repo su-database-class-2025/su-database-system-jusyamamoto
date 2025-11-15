@@ -6,7 +6,7 @@ authors: N. Tsutsumida
 
 Copyright (c) Narumasa Tsutsumida  
 Released under the MIT license  
-https://opensource.org/licenses/mit-license.php
+https://opensource.org/licenses/mit-license.php  
 
 ## Prerequisites
 - DockerとVScodeのインストール
@@ -29,5 +29,6 @@ docker compose up -d --build
 Dockerコンテナを停止するには、起動する際に用いたローカルの作業ディレクトリでTerminalで以下を実行する。
 ```
 docker compose down
+docker compose stop
 ```
 もしくは、Docker extensionより、 `docker-posrgresql-postgis-osm` を右クリックし、`Compose stop`を実行する。
