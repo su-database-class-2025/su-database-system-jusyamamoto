@@ -1,3 +1,2 @@
-SELECT *
-FROM language
-GROUP BY name;
+SELECT COUNT(*)
+FROM language;
